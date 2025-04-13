@@ -1,6 +1,6 @@
 # CNNs-with-TensorFlow
 Convolutional neural networks for advanced image recognition and classification:
-this repository contains my completed exercises and notes from the [Program Neural Networks with TensorFlow] (https://developers.google.com/learn/pathways/tensorflow#codelab-https://developers.google.com/codelabs/tensorflow-6-largecnns) course by Google Developers.
+this repository contains my completed exercises and notes from the *Program Neural Networks with TensorFlow* (https://developers.google.com/learn/pathways/tensorflow#codelab-https://developers.google.com/codelabs/tensorflow-6-largecnns) course by Google Developers.
 
 ## Overview:
 - Introduction to computer vision: build and train a DNN, experiment with layers
